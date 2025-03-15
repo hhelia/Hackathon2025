@@ -1,0 +1,20 @@
+
+
+dataset :
+- done grocery
+- done weather
+- done supermarket
+- public holidays
+- population
+- inflation
+- food waste
+- restaurant sales
+- sales/inventory
+- real time events
+
+
+ML : 
+- forcast and predict future datas
+
+Visualisation : 
+- Power BI/ Tableau for interactive dashboard
