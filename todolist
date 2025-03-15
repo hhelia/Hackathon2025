@@ -12,6 +12,9 @@ dataset :
 - sales/inventory
 - real time events
 
+forcasting : walmart : https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast?select=train.csv
+india supermarket : https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset
+
 
 ML : 
 - forcast and predict future datas
